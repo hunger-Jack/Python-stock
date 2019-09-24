@@ -1,0 +1,7 @@
+{
+    "static_path": "./static",
+    "dynamic_path": "./dynamic",
+    "port": "7788",
+    "frame_name": "mini_frame",
+    "app_name": "application"
+}
